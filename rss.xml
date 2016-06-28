@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[serenebi]]></title>
         <description><![CDATA[serenebi]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/serenebi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jun 2016 19:00:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 28 Jun 2016 19:00:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/serenebi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test Post]]></title>
+            <description><![CDATA[<article><h1>Test Post</h1><p>Instagram.com</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b44adbf-304d-48fb-bf21-96b798799bab.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b44adbf-304d-48fb-bf21-96b798799bab.jpg</link>
+            <guid isPermaLink="false">04cc8382-ec64-451a-929a-cf3bd390c492</guid>
+            <pubDate>Tue, 28 Jun 2016 19:00:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Test 2]]></title>
             <description><![CDATA[<article><h1>Test 2</h1><p>Instagram.com</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2747b6d-2573-4aee-82e9-ea60526c2928.jpg"></article>]]></description>
