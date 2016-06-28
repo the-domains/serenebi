@@ -1,0 +1,14 @@
+layout_spectrum: 0.5651629
+color:
+  saturation: 0.2962885
+  lightness: 0.1771059
+  brandStrength: 0.8640351
+  brandColors:
+    - '#FFFFFF'
+    - '#050304'
+    - '#C2BCA4'
+    - '#3E2719'
+    - '#AB8A7F'
+  rhythmicContrast: 0.8455372
+typography_spectrum: 0.566927
+name: serenebi
