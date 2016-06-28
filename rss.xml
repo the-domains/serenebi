@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[serenebi]]></title>
+        <description><![CDATA[serenebi]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 28 Jun 2016 19:00:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test 2]]></title>
+            <description><![CDATA[<article><h1>Test 2</h1><p>Instagram.com</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2747b6d-2573-4aee-82e9-ea60526c2928.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2747b6d-2573-4aee-82e9-ea60526c2928.jpg</link>
+            <guid isPermaLink="false">6f3e5c6a-ac16-4cbb-bf6c-69e7ced85348</guid>
+            <pubDate>Tue, 28 Jun 2016 19:00:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
