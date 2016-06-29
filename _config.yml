@@ -1,14 +1,3 @@
-color:
-  saturation: 0.7957394
-  brandStrength: 0
-  rhythmicContrast: 0.3007519
-  brandColors:
-    - '#1E7EF6'
-    - '#F8FFFF'
-    - '#C6D3E2'
-    - '#7AB5F4'
-    - '#96DBFF'
-  lightness: 0.8270677
 collections:
   - index:
       path: /
@@ -21,6 +10,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 0.9683136
 typography_spectrum: 0.566927
+color:
+  saturation: 0.7957394
+  brandStrength: 0
+  rhythmicContrast: 0.3007519
+  brandColors:
+    - '#1E7EF6'
+    - '#F8FFFF'
+    - '#C6D3E2'
+    - '#7AB5F4'
+    - '#96DBFF'
+  lightness: 0.8270677
+layout_spectrum: 0.7900108
 name: serenebi
