@@ -4,7 +4,7 @@
         <description><![CDATA[serenebi]]></description>
         <link>https://thegrid.ai/serenebi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 06:36:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2016 06:35:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/serenebi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[serenebi.small business]]></title>
@@ -54,6 +54,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/90740c50-5106-4c4c-99aa-5e665b3c9928.jpg</link>
             <guid isPermaLink="false">0fb55871-1ea7-42f9-a648-0ad9de99d0a6</guid>
             <pubDate>Wed, 29 Jun 2016 04:30:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Test Post]]></title>
+            <description><![CDATA[<article><h1>Test Post</h1><p>Instagram.com</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b44adbf-304d-48fb-bf21-96b798799bab.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b44adbf-304d-48fb-bf21-96b798799bab.jpg</link>
+            <guid isPermaLink="false">04cc8382-ec64-451a-929a-cf3bd390c492</guid>
+            <pubDate>Tue, 28 Jun 2016 19:00:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
