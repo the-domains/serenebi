@@ -10,7 +10,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.566927
 color:
   saturation: 0.7957394
   brandStrength: 0
@@ -22,5 +21,6 @@ color:
     - '#7AB5F4'
     - '#96DBFF'
   lightness: 0.8270677
-layout_spectrum: 0.7900108
+typography_spectrum: 0.566927
+layout_spectrum: 0.5075188
 name: serenebi
