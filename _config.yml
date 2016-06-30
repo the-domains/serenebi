@@ -4,12 +4,13 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+typography_spectrum: 0.566927
 color:
   saturation: 0.7957394
   brandStrength: 0
@@ -21,6 +22,5 @@ color:
     - '#7AB5F4'
     - '#96DBFF'
   lightness: 0.8270677
-typography_spectrum: 0.566927
-layout_spectrum: 0.5075188
+layout_spectrum: 0.2976391
 name: serenebi
